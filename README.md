@@ -16,10 +16,6 @@ A polished and feature-rich clone of the classic **Tetris** game built with **Py
 
 ---
 
-## 📸 Preview
-
-![Tetris Screenshot](https://your-screenshot-url.com/tetris-preview.png) <!-- Optional image -->
-
 ---
 
 ## 🕹 Controls
